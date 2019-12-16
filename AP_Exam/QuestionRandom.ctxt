@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=QuestionRandom
+comment0.text=\n\ QuestionRandom\ class\ is\ intended\ to\ support\ asking\ question\ on\ test\ by\ randomizing\ order\n\n\ @author\ (John\ Mortensen)\n\ @version\ (1.0)\n
+comment1.params=
+comment1.target=QuestionRandom()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Question\n\ \n\ @param\ \ void\n
+comment2.params=
+comment2.target=void\ setupQuestion()
+comment2.text=\n\ Use\ Modulo\ arithmetic\ to\ randomly\ offset\ choices\n\n
+numComments=3

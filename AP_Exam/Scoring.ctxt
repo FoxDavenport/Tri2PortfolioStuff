@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Scoring
+comment0.text=\n\ Keeps\ score\n\n\ @author\ (John\ Mortensen)\n\ @version\ (1.0\ Eclipse)\n
+comment1.params=
+comment1.target=Scoring()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Counting\n
+comment2.params=isCorrect
+comment2.target=void\ updateCounters(java.lang.Boolean)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=
+comment3.target=void\ printCounters()
+comment3.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment4.params=
+comment4.target=java.lang.String\ getCounterMsg()
+comment4.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment5.params=
+comment5.target=java.lang.String\ getCounterTotalMsg()
+comment5.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+numComments=6

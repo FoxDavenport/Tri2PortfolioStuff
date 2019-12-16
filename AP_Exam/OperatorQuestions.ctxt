@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=OperatorQuestions
+comment0.text=\n\ \n\ A\ random\ integer\ is\ chosen\ from\ 0\ to\ 4\ and\ based\ on\ the\ number,\ \n\ a\ different\ question\ is\ asked.\ The\ answer\ choices\ are\ all\ stored\ \n\ in\ an\ a\ String\ array,\ which\ is\ then\ converted\ to\ a\ List.\ \n\ For\ each\ case,\ the\ list\ containing\ the\ answer\ choices\ are\ randomized\ \n\ with\ the\ Collections.shuffle()\ method\ and\ assigned\ to\ a\ char\ (A,B,C,D,E).\ \n\ The\ randomized\ array\ is\ then\ input\ into\ the\ AnswerChoiceIndex.returnIndex()\ \n\ method\ along\ with\ the\ correct\ answer\ to\ find\ the\ index\ of\ the\ correct\ answer\ \n\ in\ the\ randomized\ array.\ The\ returned\ index\ is\ then\ input\ into\ the\ AnswerChoiceIndex.returnAns()\ \n\ method\ to\ find\ the\ char\ of\ the\ correct\ answer\ choice.\ this.answerKey\ \n\ is\ then\ set\ to\ the\ output\ of\ returnAns()\ and\ the\ correct\ letter\ is\ displayed\ as\ the\ answer.\n\ @author\ Daniel\ and\ Fox\n\ @see\ AnswerChoiceIndex\n
+comment1.params=
+comment1.target=OperatorQuestions()
+comment2.params=
+comment2.target=void\ setupQuestionData()
+numComments=3

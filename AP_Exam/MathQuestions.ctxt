@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MathQuestions
+comment0.text=\n\ Class\ to\ support\ divide\ and\ modulo\ Math\ questions.\n\n\ @author\ (John\ Mortensen)\n\ @version\ (1.0)\n
+comment1.params=
+comment1.target=MathQuestions()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MathQuestions\n\ \n\ @param\ \ void\n
+comment2.params=
+comment2.target=java.lang.String\ mainTest()
+comment2.text=\n\ Main\ test\ method\ to\ support\ console\ execution\n\ \n\ @param\ \ void\n\ @return\ void\n
+comment3.params=
+comment3.target=void\ setupQuestionData()
+comment3.text=\n\ Sets\ up\ a\ Math\ question\ according\ to\ instance\ variables\ (this...)\ in\ Question\ class\n\n\ @return\ void\n
+numComments=4

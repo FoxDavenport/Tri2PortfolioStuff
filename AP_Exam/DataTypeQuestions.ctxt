@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DataTypeQuestions
+comment0.text=\n\ Class\ to\ support\ Data\ type\ conversion\ from\ double\ to\ various\ data\ types.\n\n\ @author\ (John\ Mortensen)\n\ @version\ (1.1)\n
+comment1.params=
+comment1.target=DataTypeQuestions()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ DataTypeQuestions\n\ \n\ @param\ \ void\n
+comment2.params=
+comment2.target=java.lang.String\ mainTest()
+comment3.params=
+comment3.target=void\ setupQuestionData()
+comment3.text=\n\ Sets\ up\ a\ Data\ Type\ question\ according\ to\ instance\ variables\ (this...)\ in\ Question\ class\ \n\n\ @param\ \ datatype\ \ \ \ \ data\ type\ of\ reference\n\ @param\ \ number\ \ \ \ \ \ \ number\ in\ conversion\n\ @return\ void\n
+numComments=4
